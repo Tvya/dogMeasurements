@@ -1,0 +1,16 @@
+[{
+   "name": "Afghan Hound",
+    "neck_circumference": "40 - 52",
+    "back_length": "60 - 65",
+    "chest_circumference": "75 - 85"
+
+},
+
+{
+    "name": "Airedale Terrier",
+    "neck_circumference": "48 - 55",
+    "back_length": "48 - 55",
+    "chest_circumference": "85 - 95"
+}
+
+]
