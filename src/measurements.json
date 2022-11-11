@@ -1,0 +1,394 @@
+[
+ {
+  "id": 1,
+  "name": "Affenpinscher",
+  "neck_circumference": "18 - 28 ",
+  "back_length": "30 - 38 ",
+  "chest_circumference": "32 - 46 "
+ },
+ {
+  "id": 2,
+  "name": "Afghan Hound",
+  "neck_circumference": "40 - 52 ",
+  "back_length": "60 – 65 ",
+  "chest_circumference": "75 - 85 "
+ },
+ {
+  "id": 3,
+  "name": "Airedale Terrier",
+  "neck_circumference": "48 - 55 ",
+  "back_length": "48 - 55 ",
+  "chest_circumference": "85 - 95 "
+ },
+ {
+  "id": 4,
+  "name": "American Staffordshire Terrier",
+  "neck_circumference": "50 - 60 ",
+  "back_length": "40 – 45 ",
+  "chest_circumference": "50 - 55 "
+ },
+ {
+  "id": 5,
+  "name": "Australian Shepherd",
+  "neck_circumference": "37 - 47 ",
+  "back_length": "50 - 60 ",
+  "chest_circumference": "70 - 75 "
+ },
+ {
+  "id": 6,
+  "name": "Basset Hound",
+  "neck_circumference": "42 – 50 ",
+  "back_length": "60 – 75 ",
+  "chest_circumference": "60 - 65 "
+ },
+ {
+  "id": 7,
+  "name": "Beagle",
+  "neck_circumference": "40 – 45 ",
+  "back_length": "42 – 48 ",
+  "chest_circumference": "45 – 50 "
+ },
+ {
+  "id": 8,
+  "name": "Bearded Collie",
+  "neck_circumference": "42 - 48 ",
+  "back_length": "50 - 55 ",
+  "chest_circumference": "60 – 65 "
+ },
+ {
+  "id": 9,
+  "name": "Bernese Mountain Dog",
+  "neck_circumference": "50 - 55 ",
+  "back_length": "65 – 75 ",
+  "chest_circumference": "95 - 105 "
+ },
+ {
+  "id": 10,
+  "name": "Border Collie",
+  "neck_circumference": "60 - 65 ",
+  "back_length": "48 - 52 ",
+  "chest_circumference": "75 – 85 "
+ },
+ {
+  "id": 11,
+  "name": "Boxer",
+  "neck_circumference": "45 - 55 ",
+  "back_length": "50 - 60 ",
+  "chest_circumference": "85 - 95 "
+ },
+ {
+  "id": 12,
+  "name": "Briard",
+  "neck_circumference": "45 – 55 ",
+  "back_length": "65 – 75 ",
+  "chest_circumference": "75 – 85 "
+ },
+ {
+  "id": 13,
+  "name": "Bull Terrier",
+  "neck_circumference": "50 - 55 ",
+  "back_length": "55 – 65 ",
+  "chest_circumference": "60 - 65 "
+ },
+ {
+  "id": 14,
+  "name": "Cairn Terrier",
+  "neck_circumference": "37 – 42 ",
+  "back_length": "40 – 42 ",
+  "chest_circumference": "40 – 45 "
+ },
+ {
+  "id": 15,
+  "name": "Chihuahua",
+  "neck_circumference": "25 - 32 ",
+  "back_length": "20 - 30 ",
+  "chest_circumference": "30 – 35 "
+ },
+ {
+  "id": 16,
+  "name": "Chow Chow",
+  "neck_circumference": "50 - 56 ",
+  "back_length": "45 - 50 ",
+  "chest_circumference": "75 – 85 "
+ },
+ {
+  "id": 17,
+  "name": "Cocker Spaniel",
+  "neck_circumference": "40 – 45 ",
+  "back_length": "42 - 47 ",
+  "chest_circumference": "50 - 55 "
+ },
+ {
+  "id": 18,
+  "name": "Dalmatian",
+  "neck_circumference": "40 – 50 ",
+  "back_length": "65 – 75 ",
+  "chest_circumference": "65 - 85 "
+ },
+ {
+  "id": 19,
+  "name": "Doberman Pinscher",
+  "neck_circumference": "45 - 55 ",
+  "back_length": "60 – 70 ",
+  "chest_circumference": "85 – 95 "
+ },
+ {
+  "id": 20,
+  "name": "French Bulldog",
+  "neck_circumference": "30 – 40 ",
+  "back_length": "30 – 45 ",
+  "chest_circumference": "50 – 60 "
+ },
+ {
+  "id": 21,
+  "name": "German Shepherd Dog",
+  "neck_circumference": "50 - 70 ",
+  "back_length": "65 – 75 ",
+  "chest_circumference": "95 – 105 "
+ },
+ {
+  "id": 22,
+  "name": "Golden Retriever",
+  "neck_circumference": "45 - 53 ",
+  "back_length": "55 - 65 ",
+  "chest_circumference": "85 – 95 "
+ },
+ {
+  "id": 23,
+  "name": "Great Dane",
+  "neck_circumference": "60 – 75 ",
+  "back_length": "60 – 80 ",
+  "chest_circumference": "95 – 105 "
+ },
+ {
+  "id": 24,
+  "name": "Greyhound",
+  "neck_circumference": "45 – 55 ",
+  "back_length": "60 - 84 ",
+  "chest_circumference": "75 – 85 "
+ },
+ {
+  "id": 25,
+  "name": "Havanese",
+  "neck_circumference": "20 – 25 ",
+  "back_length": "20 – 25 ",
+  "chest_circumference": "30 – 40 "
+ },
+ {
+  "id": 26,
+  "name": "Irish Setter",
+  "neck_circumference": "40 – 45 ",
+  "back_length": "65 – 75 ",
+  "chest_circumference": "75 – 85 "
+ },
+ {
+  "id": 27,
+  "name": "Irish Wolfhound",
+  "neck_circumference": "55 - 65 ",
+  "back_length": "40 - 85 ",
+  "chest_circumference": "105 - 115 "
+ },
+ {
+  "id": 28,
+  "name": "Keeshond",
+  "neck_circumference": "45 - 55 ",
+  "back_length": "45 - 50 ",
+  "chest_circumference": "75 - 85 "
+ },
+ {
+  "id": 29,
+  "name": "Labrador Retriever",
+  "neck_circumference": "50 – 55 ",
+  "back_length": "55 – 60 ",
+  "chest_circumference": "85 - 95 "
+ },
+ {
+  "id": 30,
+  "name": "Leonberger",
+  "neck_circumference": "55 – 65 ",
+  "back_length": "70 - 85 ",
+  "chest_circumference": "105 - 115 "
+ },
+ {
+  "id": 31,
+  "name": "Lhasa Apso",
+  "neck_circumference": "34 – 45 ",
+  "back_length": "35 – 42 ",
+  "chest_circumference": "40 - 50 "
+ },
+ {
+  "id": 32,
+  "name": "Maltese",
+  "neck_circumference": "30 – 35 ",
+  "back_length": "30 – 38 ",
+  "chest_circumference": "35 – 40 "
+ },
+ {
+  "id": 33,
+  "name": "Miniature Pinscher",
+  "neck_circumference": "25 - 33 ",
+  "back_length": "32 – 40 ",
+  "chest_circumference": "38 – 48 "
+ },
+ {
+  "id": 34,
+  "name": "Miniature Schnauzer",
+  "neck_circumference": "30 – 35 ",
+  "back_length": "32–38 ",
+  "chest_circumference": "40 – 45 "
+ },
+ {
+  "id": 35,
+  "name": "Newfoundland",
+  "neck_circumference": "55 – 65 ",
+  "back_length": "65 – 75 ",
+  "chest_circumference": "105 - 115 "
+ },
+ {
+  "id": 36,
+  "name": "Old English Sheepdog",
+  "neck_circumference": "55 - 65 ",
+  "back_length": "50 - 55 ",
+  "chest_circumference": "55 - 70 "
+ },
+ {
+  "id": 37,
+  "name": "Pekingese",
+  "neck_circumference": "30 - 35 ",
+  "back_length": "35 – 40 ",
+  "chest_circumference": "40 - 45 "
+ },
+ {
+  "id": 38,
+  "name": "Pomeranian",
+  "neck_circumference": "25 - 35 ",
+  "back_length": "32 - 38 ",
+  "chest_circumference": "40 – 45 "
+ },
+ {
+  "id": 39,
+  "name": "Poodle (Miniature)",
+  "neck_circumference": "32 - 40 ",
+  "back_length": "30 - 35 ",
+  "chest_circumference": "35 – 45 "
+ },
+ {
+  "id": 40,
+  "name": "Poodle (Toy)",
+  "neck_circumference": "25 – 35 ",
+  "back_length": "32 - 38 ",
+  "chest_circumference": "27 - 36 "
+ },
+ {
+  "id": 41,
+  "name": "Pug",
+  "neck_circumference": "36 – 44 ",
+  "back_length": "28 – 35 ",
+  "chest_circumference": "50 - 60 "
+ },
+ {
+  "id": 42,
+  "name": "Rhodesian Ridgeback",
+  "neck_circumference": "47 - 67 ",
+  "back_length": "55 - 70 ",
+  "chest_circumference": "95 – 105 "
+ },
+ {
+  "id": 43,
+  "name": "Rottweiler",
+  "neck_circumference": "55 – 70 ",
+  "back_length": "67 - 82 ",
+  "chest_circumference": "95 – 105 "
+ },
+ {
+  "id": 44,
+  "name": "Saint Bernard",
+  "neck_circumference": "50 – 70 ",
+  "back_length": "65 – 80 ",
+  "chest_circumference": "105 - 115 "
+ },
+ {
+  "id": 45,
+  "name": "Scottish Terrier",
+  "neck_circumference": "35 – 45 ",
+  "back_length": "40 – 45 ",
+  "chest_circumference": "65 – 70 "
+ },
+ {
+  "id": 46,
+  "name": "Shetland Sheepdog",
+  "neck_circumference": "40 – 45 ",
+  "back_length": "42 – 48 ",
+  "chest_circumference": "50 - 55 "
+ },
+ {
+  "id": 47,
+  "name": "Shih Tzu",
+  "neck_circumference": "30 - 42 ",
+  "back_length": "25 – 45 ",
+  "chest_circumference": "40 - 45 "
+ },
+ {
+  "id": 48,
+  "name": "Siberian Husky",
+  "neck_circumference": "45 - 50 ",
+  "back_length": "60 – 70 ",
+  "chest_circumference": "85 - 95 "
+ },
+ {
+  "id": 49,
+  "name": "Smooth Fox Terrier",
+  "neck_circumference": "40 – 45 ",
+  "back_length": "38 – 45 ",
+  "chest_circumference": "50 – 55 "
+ },
+ {
+  "id": 50,
+  "name": "Staffordshire Bull Terrier",
+  "neck_circumference": "45 - 60 ",
+  "back_length": "42 – 48 ",
+  "chest_circumference": "42-50 "
+ },
+ {
+  "id": 51,
+  "name": "Standard Schnauzers",
+  "neck_circumference": "40 – 45 ",
+  "back_length": "45 – 50 ",
+  "chest_circumference": "65 – 70 "
+ },
+ {
+  "id": 52,
+  "name": "Tibetan Mastiff",
+  "neck_circumference": "65 – 80 ",
+  "back_length": "70 - 85 ",
+  "chest_circumference": "95 – 105 "
+ },
+ {
+  "id": 53,
+  "name": "West Highland White Terrier",
+  "neck_circumference": "30 - 40 ",
+  "back_length": "29 - 42 ",
+  "chest_circumference": "50 - 55 "
+ },
+ {
+  "id": 54,
+  "name": "Whippet",
+  "neck_circumference": "40 – 45 ",
+  "back_length": "40 – 45 ",
+  "chest_circumference": "55 – 60 "
+ },
+ {
+  "id": 55,
+  "name": "Wire Fox Terrier",
+  "neck_circumference": "40 – 45 ",
+  "back_length": "38 – 45 ",
+  "chest_circumference": "50 – 55 "
+ },
+ {
+  "id": 56,
+  "name": "Yorkshire Terrier",
+  "neck_circumference": "25 - 30 ",
+  "back_length": "25 – 30 ",
+  "chest_circumference": "35 – 40 "
+ }
+]

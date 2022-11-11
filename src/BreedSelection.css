@@ -1,0 +1,27 @@
+.Dropdown {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2%
+    
+    
+}
+
+.breedName {
+    text-align: center;
+    font-family: "IBM Plex Mono", monospace ;
+    box-shadow: 0px 10px 5px 0px rgba(83, 81, 81, 0.75);
+    height: 40px;
+    position: absolute;
+    border-radius: 10px;
+    color: rgb(33, 32, 32);
+
+}
+
+.breedDetails {
+    margin-top: 5%;
+    
+
+}
+

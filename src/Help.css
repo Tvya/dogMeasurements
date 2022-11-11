@@ -1,0 +1,38 @@
+.Help-Text{
+    
+    height: 184%;
+    width:100vw;
+    position: fixed;
+    background-color: black;
+    margin-bottom :-25%;
+    opacity: 0.9;
+    color:black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 99 ;
+}
+
+.Help-Content{
+    width: 650px;
+    background-color: white;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+
+.Help-Close{
+    display: flex;
+    justify-content: flex-end;
+    margin-inline-start:  auto;
+    margin-block-end: auto;
+}
+
+.Help-Close-icon {
+    cursor: pointer;
+}
+
