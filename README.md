@@ -13,7 +13,7 @@ So as to allow user to be able to get collar leash, harness or clothes for their
 
 Built using :
 
-React with API from https://thedogapi.com/ for the 1st 3 measurements and the last 3 measuremets is consolidated data 
+React with API from https://thedogapi.com/ for the 1st 3 measurements and the last 3 measuremets is data consolidated into a JSON file
 
 How it works:
 Overall Architecture 
