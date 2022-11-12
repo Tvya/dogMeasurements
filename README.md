@@ -25,4 +25,4 @@ Overall Architecture
 
 Future Goals
 - To be able to toggle between metrics and imperial measurements
-- To further develop it for user to keep track of their own pet dog measureemnts as it grows ( kind of like a diary or tracker)
+- To further develop it for user to keep track of their own pet dog measurements as it grows ( kind of like a diary or tracker)
