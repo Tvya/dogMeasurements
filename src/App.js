@@ -15,7 +15,7 @@ function App() {
       
 
        <div className='Help-button'>
-        <button className="button" onClick={()=>setIsModalVisible(true)}>Help</button>
+        <button className="button" onClick={()=>setIsModalVisible(true)} title="How to check for measurements">Help</button>
         </div>
 
        <BreedSelection/>
